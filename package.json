@@ -1,7 +1,7 @@
 {
     "$schema": "https://www.schemastore.org/package.json",
     "name": "devskim-config-nick2bad4u",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "private": false,
     "description": "Portable shared DevSkim source-security policies with typed composition helpers.",
     "keywords": [
